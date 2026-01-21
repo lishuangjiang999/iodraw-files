@@ -107,6 +107,12 @@
         <mxCell id="dyqAxQ9E8cCZfWa527yC-10" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.up;strokeColor=#0080f0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="454" y="377" width="12" height="6" as="geometry" />
         </mxCell>
+        <mxCell id="dyqAxQ9E8cCZfWa527yC-11" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="dyqAxQ9E8cCZfWa527yC-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCheckIcon;fillColor=#e8878E;fillColor2=#BD1421;strokeColor=#ffffff;sketch=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="15" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
