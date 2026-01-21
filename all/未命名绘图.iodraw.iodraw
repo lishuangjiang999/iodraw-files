@@ -113,8 +113,14 @@
         <mxCell id="dyqAxQ9E8cCZfWa527yC-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCheckIcon;fillColor=#e8878E;fillColor2=#BD1421;strokeColor=#ffffff;sketch=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="420" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="dyqAxQ9E8cCZfWa527yC-13" value="" style="verticalLabelPosition=top;html=1;shadow=0;dashed=0;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.ios.iPin;fillColor2=#ccccff;fillColor3=#0000ff;strokeColor=#000066;rounded=1;" vertex="1" parent="1">
+        <mxCell id="dyqAxQ9E8cCZfWa527yC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dyqAxQ9E8cCZfWa527yC-13" target="dyqAxQ9E8cCZfWa527yC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyqAxQ9E8cCZfWa527yC-13" value="" style="verticalLabelPosition=top;html=1;shadow=0;dashed=0;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.ios.iPin;fillColor2=#ccccff;fillColor3=#0000ff;strokeColor=#000066;rounded=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="620" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dyqAxQ9E8cCZfWa527yC-14" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=bottom;strokeColor=#000066;shadow=0;dashed=0;strokeWidth=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="487.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
