@@ -14,7 +14,10 @@
           <mxGeometry x="560" y="240" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iu81xZF_0tKGzuR73IKk-4" value="" style="verticalLabelPosition=top;html=1;shadow=0;dashed=0;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.ios.iPin;fillColor2=#ccccff;fillColor3=#0000ff;strokeColor=#000066;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="420" width="10" height="30" as="geometry" />
+          <mxGeometry x="410" y="420" width="70" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iu81xZF_0tKGzuR73IKk-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
