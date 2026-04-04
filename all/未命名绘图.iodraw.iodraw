@@ -8,12 +8,12 @@
           <mxGeometry x="140" y="-10" width="1006" height="260" as="geometry" />
         </mxCell>
         <mxCell id="iu81xZF_0tKGzuR73IKk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="370" width="10" height="380" as="geometry" />
+          <mxGeometry x="205" y="380" width="10" height="380" as="geometry" />
         </mxCell>
         <mxCell id="iu81xZF_0tKGzuR73IKk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="250" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iu81xZF_0tKGzuR73IKk-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iu81xZF_0tKGzuR73IKk-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="250" width="100" height="120" as="geometry" />
         </mxCell>
       </root>
