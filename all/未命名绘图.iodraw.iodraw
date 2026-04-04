@@ -11,7 +11,10 @@
           <mxGeometry x="240" y="240" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iu81xZF_0tKGzuR73IKk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="310" width="20" height="50" as="geometry" />
+          <mxGeometry x="560" y="240" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iu81xZF_0tKGzuR73IKk-4" value="" style="verticalLabelPosition=top;html=1;shadow=0;dashed=0;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.ios.iPin;fillColor2=#ccccff;fillColor3=#0000ff;strokeColor=#000066;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="420" width="10" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
