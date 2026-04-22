@@ -310,6 +310,9 @@
         <mxCell id="bCxpUXgqkjzxnDuu4kvW-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="530" width="211" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="ehVVBKiWfb1V14J8-kfV-1" value="明间板门、两次间破子棂窗" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
