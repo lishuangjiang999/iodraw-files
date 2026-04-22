@@ -304,7 +304,7 @@
         <mxCell id="ehVVBKiWfb1V14J8-kfV-1" value="前檐柱间填充墙" style="text;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="324" y="505" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7uG7dXE5yoALnqzCajUy-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillStyle=dashed;fillColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7uG7dXE5yoALnqzCajUy-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillStyle=hatch;fillColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="220" height="280" as="geometry" />
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#B3B3B3;fillStyle=dashed;strokeWidth=2;" vertex="1" parent="1">
@@ -448,8 +448,8 @@
         <mxCell id="7uG7dXE5yoALnqzCajUy-33" value="两次间" style="text;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="123" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7uG7dXE5yoALnqzCajUy-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="7uG7dXE5yoALnqzCajUy-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
