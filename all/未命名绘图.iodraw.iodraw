@@ -231,7 +231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r9QC5hi7PvUJGe0EirU9" name="第 4 页">
-    <mxGraphModel dx="1190" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,8 +502,8 @@
             <mxPoint y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lbWwzEFIrotwM_cdFoKu-15" value="板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-66" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="lbWwzEFIrotwM_cdFoKu-15" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="10" width="84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
