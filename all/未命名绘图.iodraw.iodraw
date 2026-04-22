@@ -152,8 +152,8 @@
             <mxPoint x="770" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFkFPffOxQL6bOX7Cf4_-14" value="L" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="190" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="yFkFPffOxQL6bOX7Cf4_-14" value="L" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="190" y="468" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
