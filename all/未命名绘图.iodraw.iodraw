@@ -393,8 +393,8 @@
         <mxCell id="1mG66Sn9-FuCdpPMRQma-1" value="H" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="61" y="783" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zLcWQuY8T-If-f61lPuW-1" value="后檐墙（北墙）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="312" y="495" width="177" height="30" as="geometry" />
+        <mxCell id="zLcWQuY8T-If-f61lPuW-1" value="东西山墙（北墙）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="151.5" y="1000" width="218.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
