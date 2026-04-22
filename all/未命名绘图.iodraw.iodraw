@@ -77,10 +77,10 @@
         <mxCell id="cmB8WN8gy_PXk6-Lgz5A-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillStyle=cross-hatch;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="120" y="500" width="220" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="9Da5ugT3inZcAxg7TKIP-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#B3B3B3;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="9Da5ugT3inZcAxg7TKIP-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#B3B3B3;fillStyle=cross-hatch;" vertex="1" parent="1">
           <mxGeometry x="450" y="500" width="330" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="9Da5ugT3inZcAxg7TKIP-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillStyle=dashed;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="9Da5ugT3inZcAxg7TKIP-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillStyle=dashed;fillColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="220" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9Da5ugT3inZcAxg7TKIP-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#B3B3B3;fillStyle=dashed;" vertex="1" parent="1">
