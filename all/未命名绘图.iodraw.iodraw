@@ -398,7 +398,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-19" value="墙厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="474" width="60" height="30" as="geometry" />
+          <mxGeometry x="-45" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-20" value="2900" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="201" y="448" width="60" height="32" as="geometry" />
@@ -504,6 +504,9 @@
             <mxPoint x="-30" y="470" as="sourcePoint" />
             <mxPoint y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lbWwzEFIrotwM_cdFoKu-15" value="墙厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="21" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
