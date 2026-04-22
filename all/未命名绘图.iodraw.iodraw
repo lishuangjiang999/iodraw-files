@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PRDj7X7y04HnjDdgFrmB-16" value="后檐墙（北墙）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="303" y="518" width="221" height="30" as="geometry" />
+          <mxGeometry x="303" y="518" width="177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmQTatmWSShCl5SC6hby-1" value="明间" style="text;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="60" height="40" as="geometry" />
