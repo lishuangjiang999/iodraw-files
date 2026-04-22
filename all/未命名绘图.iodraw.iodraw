@@ -505,7 +505,7 @@
             <mxPoint x="93" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lbWwzEFIrotwM_cdFoKu-17" value="1500" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;rotation=90;" vertex="1" parent="1">
+        <mxCell id="lbWwzEFIrotwM_cdFoKu-17" value="1300" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1qyDmiTNT8xZLlzEDzo1-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
