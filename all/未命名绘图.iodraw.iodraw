@@ -222,10 +222,10 @@
           <mxGeometry x="303" y="518" width="221" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmQTatmWSShCl5SC6hby-1" value="明间" style="text;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="60" height="40" as="geometry" />
+          <mxGeometry x="570" y="120" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mPDfPPHW4oYTwHBK244d-1" value="明间、两次间" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="600" width="180" height="40" as="geometry" />
+        <mxCell id="mPDfPPHW4oYTwHBK244d-1" value="两次间" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="600" width="83" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
