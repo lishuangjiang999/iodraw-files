@@ -219,7 +219,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PRDj7X7y04HnjDdgFrmB-16" value="后檐墙（北墙）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="303" y="490" width="221" height="30" as="geometry" />
+          <mxGeometry x="303" y="518" width="221" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FmQTatmWSShCl5SC6hby-1" value="明间板门、两次间破子棂窗" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -380,6 +383,9 @@
         </mxCell>
         <mxCell id="t1wP1Ea-T-Zfd07ZkBV8-14" value="490" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="110" y="625" width="60" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1mG66Sn9-FuCdpPMRQma-1" value="H" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="61" y="783" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
