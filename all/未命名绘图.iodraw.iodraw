@@ -445,10 +445,10 @@
         <mxCell id="7uG7dXE5yoALnqzCajUy-33" value="两次间" style="text;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="123" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7uG7dXE5yoALnqzCajUy-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7uG7dXE5yoALnqzCajUy-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#B3B3B3;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="130" y="350" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7uG7dXE5yoALnqzCajUy-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7uG7dXE5yoALnqzCajUy-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
           <mxGeometry x="130" y="180" width="210" height="170" as="geometry" />
         </mxCell>
       </root>
