@@ -528,8 +528,8 @@
         </mxCell>
         <mxCell id="1qyDmiTNT8xZLlzEDzo1-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="129" as="sourcePoint" />
-            <mxPoint x="820" y="129" as="targetPoint" />
+            <mxPoint x="810" y="130" as="sourcePoint" />
+            <mxPoint x="820" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1qyDmiTNT8xZLlzEDzo1-23" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
@@ -590,6 +590,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="837" y="234.26" as="sourcePoint" />
             <mxPoint x="797" y="234.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="141" as="sourcePoint" />
+            <mxPoint x="830" y="141" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
