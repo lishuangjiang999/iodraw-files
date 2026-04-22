@@ -517,6 +517,33 @@
             <mxPoint x="626" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#804E33;" vertex="1" parent="1">
+          <mxGeometry x="810" y="140" width="10" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-19" value="90" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry y="87" width="60" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="137" as="sourcePoint" />
+            <mxPoint y="117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="138" as="sourcePoint" />
+            <mxPoint x="-10" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="127" as="sourcePoint" />
+            <mxPoint y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-23" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="87" width="84" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
