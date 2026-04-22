@@ -388,7 +388,7 @@
         <mxCell id="7uG7dXE5yoALnqzCajUy-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="129" y="60" as="sourcePoint" />
-            <mxPoint x="99" y="60" as="targetPoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-19" value="墙厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
@@ -502,8 +502,11 @@
         <mxCell id="lbWwzEFIrotwM_cdFoKu-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="93" y="270" as="sourcePoint" />
-            <mxPoint x="93" y="90" as="targetPoint" />
+            <mxPoint x="93" y="60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lbWwzEFIrotwM_cdFoKu-17" value="1860" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="87" y="312" width="60" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
