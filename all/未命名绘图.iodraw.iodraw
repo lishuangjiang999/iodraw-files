@@ -871,7 +871,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9dXMwyCF7-4K9Q5IwU5i-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3" y="-210" width="260" height="340.74" as="geometry" />
+          <mxGeometry x="30" y="390" width="260" height="340.74" as="geometry" />
         </mxCell>
         <mxCell id="9dXMwyCF7-4K9Q5IwU5i-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="9dXMwyCF7-4K9Q5IwU5i-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
