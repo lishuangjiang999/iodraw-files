@@ -275,7 +275,7 @@
           <mxGeometry x="397" y="292.21" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ehVVBKiWfb1V14J8-kfV-1" value="前檐柱间填充墙" style="text;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="324" y="510" width="180" height="40" as="geometry" />
+          <mxGeometry x="324" y="530" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -355,7 +355,7 @@
             <mxPoint x="83" y="139.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uG7dXE5yoALnqzCajUy-19" value="墙厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="7uG7dXE5yoALnqzCajUy-19" value="墙厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-45" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-20" value="2900" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
@@ -433,7 +433,7 @@
             <mxPoint y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lbWwzEFIrotwM_cdFoKu-15" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="lbWwzEFIrotwM_cdFoKu-15" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="77" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lbWwzEFIrotwM_cdFoKu-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -532,7 +532,7 @@
             <mxPoint x="820" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1qyDmiTNT8xZLlzEDzo1-23" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="1qyDmiTNT8xZLlzEDzo1-23" value="木板厚t" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="740" y="89" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1qyDmiTNT8xZLlzEDzo1-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
