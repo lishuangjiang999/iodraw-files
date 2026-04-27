@@ -373,7 +373,7 @@
         <mxCell id="7uG7dXE5yoALnqzCajUy-32" value="明间" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="590" y="510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7uG7dXE5yoALnqzCajUy-33" value="两次间" style="text;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="7uG7dXE5yoALnqzCajUy-33" value="两次间" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="83" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7uG7dXE5yoALnqzCajUy-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#B3B3B3;strokeWidth=3;" vertex="1" parent="1">
